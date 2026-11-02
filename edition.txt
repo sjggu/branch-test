@@ -8,3 +8,5 @@ hotfix my solution
 hotfix team's solution
 origin/main
 New function added
+Upgraded
+Team upgraded
